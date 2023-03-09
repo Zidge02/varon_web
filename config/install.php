@@ -15,8 +15,4 @@ PRIMARY KEY (`usuario_id`)) ENGINE = InnoDB;";
 
 mysqli_query($conexion, $sql);
 
-
-
-
-
 ?>

@@ -1,6 +1,6 @@
 <nav class="navbar navbar-dark navbar-expand-lg bg-dark">
     <div class="container-fluid">
-      <a class="navbar-brand" href="index.php?vista=principal">
+    <a class="navbar-brand" href="/varon/index.php?vista=principal">
         <!-- <img src="media/img/logo.png" alt="Bootstrap" width="80" height="80"> -->
         <h3>Casa Varon</h3>
       </a>
